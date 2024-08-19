@@ -1,11 +1,9 @@
 {
-  "description": "I'm dev -_-",
-  "repo": "https://github.com/is-a-dev/docs",
   "owner": {
     "username": "raza-hadi",
     "email": "2009.hadiraza@gmail.com"
   },
   "record": {
-    CNAME:"unknownme";
+    "CNAME": "unknownme.is-a.dev"
   }
 }
